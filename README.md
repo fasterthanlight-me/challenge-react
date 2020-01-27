@@ -1,4 +1,4 @@
-# MedSpoke Rails Challenge
+# FTL Rails Challenge
 
 ## Description
 
@@ -92,11 +92,9 @@ Please be aware that Unsplash API has limitation of [50 requests per hour](https
 
 * Communicating with other developers during the challenge is *strictly forbidden* - we would love to know your personal skills, and don't worry if you can't solve some tasks - nobody knows everything!
 
-* Submit the challenges via [git format-patch](https://git-scm.com/docs/git-format-patch) to our development team (dev@medspoke.com)
-
 ### What happens after submission?
 
-Once you submit your solution to us via `git format-patch`, our dev team will review the code. It might take us up to 1 week to get back to you with some feedback. If your solution is accepted, we will invite you for a next step of the recruitment process.
+Once you publish your solution on Github, our dev team will review the code. It might take us up to 1 week to get back to you with some feedback. If your solution is accepted, we will invite you for a next round of the recruitment process.
 
 ## Have a great time coding, and we're looking forward for your submission!
 
